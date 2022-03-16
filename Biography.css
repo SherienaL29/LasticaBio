@@ -1,0 +1,99 @@
+body {
+	background-color: lemonchiffon;
+	font font-family: monospace ;
+}
+#stylesheet {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url( back.jpeg );
+}
+header {
+	font-size: 70px;
+	text-align: center;
+	background-color: transparent;
+	background-size: auto;
+	color: black;
+	font-style: oblique;
+	font-family: cursive;
+	color: darkolivegreen;
+}
+
+#stylesheet img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: 10px solid black;
+	border-color: darkolivegreen;
+	align-items: baseline;
+	align-items: center;
+	border-radius: 50%;
+
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+	background-color: lightsteelblue;
+	background-size: auto;
+	color: black;
+	font-style: oblique;
+	color: darkolivegreen;
+}
+#Elementary {
+	font-size: 40px;
+	text-align: left;
+	font-family: monospace;
+	font-style: italic;
+	color: darkblue;
+}
+#Elementary img {
+	margin-left: 30px;
+	border: 3px solid black;
+	align-items: baseline;
+}
+#Profile img {
+	margin-left: 30px;
+	border: 3px solid black;
+	align-items: baseline;
+}
+#Personal {
+	font-size: 40px;
+	text-align: left;
+	font-style: italic;
+	color: darkblue;
+	font-family: monospace;
+}
+
+#Area {
+	font-size: 40px;
+	text-align: left;
+	font-style: italic;
+	color: darkblue;
+	font-family: monospace;
+}
+#Area img {
+	margin-left: 30px;
+	border: 3px solid black;
+	align-items: baseline;
+}
+#Objectives {
+	font-size: 40px;
+	text-align: left;
+	font-style: italic;
+	color: darkblue;
+	font-family: monospace;
+}
+#Interest {
+	font-size: 40px;
+	text-align: left;
+	font-style: italic;
+	color: darkblue;
+	font-family: monospace;
+}
+footer { 
+clear: both; 
+background-color: lightsteelblue;
+font-size: 30px;
+color: black;
+text-align: center
+}
